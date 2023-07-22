@@ -1,4 +1,4 @@
-# Student Management Project in Spring Boot with MySQL - README
+# Student Management Project in Spring Boot with MySQL
 
 Welcome to the Student Management Project in Spring Boot with MySQL! This project is a simple yet powerful Student Management System that allows you to record, retrieve, edit, and delete Course and Student details. It serves as an excellent starting point for understanding and creating future projects using Spring Boot applications.
 
